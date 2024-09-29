@@ -10,7 +10,7 @@ Mikayi Point is a modern hotel located in a serene environment, offering luxurio
 
 - **Responsive Design**: Optimized for all devices (mobile, tablet, and desktop).
 - **Room Booking System**: Guests can view available rooms and make reservations online.
-- **Services Section**: Highlighting services such as dining, spa, and event hosting.
+- **Services Section**: Highlighting services such as dining, and event hosting.
 - **Gallery**: A visual tour of the hotel and its surroundings.
 - **Contact Form**: Easy-to-use form for inquiries or customer feedback.
 - **Google Maps Integration**: See the exact location of Mikayi Point for easy navigation.
